@@ -1065,6 +1065,40 @@ a:focus {
     color: #FF6F61;
     background: #222222;
 }
+.projects {
+    position: relative;
+    padding: 60px 30px 30px 30px;
+    background: #ffffff;
+}
+
+.projects .content-inner {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.projects .content-header h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.projects .project-item {
+    margin-bottom: 30px;
+}
+
+.projects .project-item h3 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.projects .project-item p {
+    font-size: 16px;
+    color: #666;
+}
 
 
 /**********************************/
@@ -1101,4 +1135,3 @@ a:focus {
 .footer a:hover {
     color: #222222;
 }
-
